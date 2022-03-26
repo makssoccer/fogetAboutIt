@@ -9,5 +9,8 @@
         <module name="GitGItovskiu" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="GitGItovskiu" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>
