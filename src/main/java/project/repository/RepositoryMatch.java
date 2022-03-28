@@ -1,4 +1,4 @@
 package project.repository;
 
-public class repositoryMatch {
+public class RepositoryMatch {
 }

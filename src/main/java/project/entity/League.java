@@ -1,7 +1,7 @@
 package project.entity;
 
-public class club {
-   private int id;
+public class League {
+    private int id;
 
     public int getId() {
         return id;
@@ -10,4 +10,5 @@ public class club {
     public void setId(int id) {
         this.id = id;
     }
+
 }

@@ -1,6 +1,6 @@
 package project.entity;
 
-public class player {
+public class Player {
     private int id;
 
     public int getId() {

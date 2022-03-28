@@ -1,5 +1,5 @@
 package project.repository;
 
-public class repositoryPlayer {
+public class RepositoryPlayer {
 
 }

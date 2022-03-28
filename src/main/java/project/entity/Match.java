@@ -1,6 +1,6 @@
 package project.entity;
 
-public class match {
+public class Match {
     private int id;
 
     public int getId() {

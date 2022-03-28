@@ -1,7 +1,7 @@
 package project.entity;
 
-public class league {
-    private int id;
+public class Club {
+   private int id;
 
     public int getId() {
         return id;
