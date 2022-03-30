@@ -1,9 +1,11 @@
 package project.entity;
 
-public class Match {
-    private int id;
+import project.BaseEntiti;
 
-    public int getId() {
+public class Match extends BaseEntiti {
+    private Integer id;
+
+    public Integer getId() {
         return id;
     }
 

@@ -4,22 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6202f0cc-8ed1-4f09-b6be-118e449cd52b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+    <list default="true" id="6202f0cc-8ed1-4f09-b6be-118e449cd52b" name="Changes" comment="it is bad">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/project/entity/club.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/project/entity/Club.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/project/entity/league.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/project/entity/League.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/project/entity/match.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/project/entity/Match.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/project/entity/player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/project/entity/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/project/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/project/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/project/repository/repositoryLeague.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/project/repository/RepositoryLeague.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/project/repository/repositoryMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/project/repository/RepositoryMatch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/project/repository/repositoryPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/project/repository/RepositoryPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/project/entity/Club.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/project/entity/Club.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/project/entity/Country.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/project/entity/Country.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/project/entity/Match.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/project/entity/Match.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/project/entity/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/project/entity/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/project/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/project/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/project/repository/RepositoryClub.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/project/repository/RepositoryClub.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/project/repository/RepositoryLeague.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/project/repository/RepositoryLeague.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/project/repository/RepositoryMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/project/repository/RepositoryMatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/project/repository/RepositoryPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/project/repository/RepositoryPlayer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -42,8 +49,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="project.main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="project.Main" />
       <module name="GitGItovskiu" />
       <extension name="coverage">
         <pattern>
@@ -57,7 +64,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.main" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -70,6 +77,14 @@
       <option name="presentableId" value="Default" />
       <updated>1648287248222</updated>
     </task>
+    <task id="LOCAL-00001" summary="it is bad">
+      <created>1648472674084</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1648472674084</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -82,5 +97,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="it is bad" />
+    <MESSAGE value="done_Repository" />
+    <option name="LAST_COMMIT_MESSAGE" value="done_Repository" />
   </component>
 </project>

@@ -1,6 +1,6 @@
 package project.repository;
 
-import project.entity.Country;
+
 import project.entity.League;
 
 import java.util.LinkedList;
@@ -23,6 +23,7 @@ public class RepositoryLeague {
 
     }
     public void updateLeague(League League) {
+
         leagues.set(leagues.indexOf(League), League);
     }
 
