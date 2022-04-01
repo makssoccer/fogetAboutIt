@@ -1,9 +1,11 @@
 package project.entity;
 
-public class League {
-    private int id;
+import project.BaseEntiti;
 
-    public int getId() {
+public class League extends BaseEntiti {
+
+
+    public Integer getId() {
         return id;
     }
 

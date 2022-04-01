@@ -13,9 +13,9 @@ public class RepositoryLeague {
 
     }
 
-    public League getLeague(League id) {
+    public League getLeague(Integer id) {
         for (League league : leagues) {
-            if (league==id) {
+            if (league.getId().equals(id)) {
                 return league;
             }
         }
@@ -27,10 +27,10 @@ public class RepositoryLeague {
         leagues.set(leagues.indexOf(League), League);
     }
 
-    public void deleteLeague(League id) {
+    public void deleteLeague(Integer id) {
         League findLeague=null;
         for (League league : leagues) {
-            if (league==id) {
+            if (league.getId().equals(id)) {
                 findLeague = league;
             }
         }

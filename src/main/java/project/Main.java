@@ -24,10 +24,10 @@ public class Main {
          apl.setId(901);
          repositoryLeague.setLeague(laliga);
          repositoryLeague.setLeague(apl);
-         League league = repositoryLeague.getLeague(apl);
+         League league = repositoryLeague.getLeague(901);
          System.out.println(league.getId());
          repositoryLeague.updateLeague(apl);
-         repositoryLeague.deleteLeague(apl);
+         repositoryLeague.deleteLeague(901);
 
          RepositoryClub repositoryClub = new RepositoryClub  ();
          Club barcelona=new Club();

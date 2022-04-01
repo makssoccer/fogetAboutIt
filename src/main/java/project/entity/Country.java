@@ -3,7 +3,7 @@ package project.entity;
 import project.BaseEntiti;
 
 public class Country extends BaseEntiti {
-    private Integer id;
+
 
     public Integer getId() {
         return id;

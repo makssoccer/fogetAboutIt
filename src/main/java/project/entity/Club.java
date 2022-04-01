@@ -1,7 +1,9 @@
 package project.entity;
 
-public class Club {
-   private int id;
+import project.BaseEntiti;
+
+public class Club extends BaseEntiti {
+
    private String name;
 
     public int getId() {

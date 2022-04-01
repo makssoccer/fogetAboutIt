@@ -2,7 +2,7 @@ package project;
 
 
 public class BaseEntiti {
-    public Integer id;
+    protected Integer id;
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;

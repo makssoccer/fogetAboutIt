@@ -4,17 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6202f0cc-8ed1-4f09-b6be-118e449cd52b" name="Changes" comment="it is bad">
+    <list default="true" id="6202f0cc-8ed1-4f09-b6be-118e449cd52b" name="Changes" comment="done_Repository">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/project/BaseEntiti.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/project/BaseEntiti.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/project/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/project/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/project/entity/Club.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/project/entity/Club.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/project/entity/Country.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/project/entity/Country.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/project/entity/League.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/project/entity/League.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/project/entity/Match.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/project/entity/Match.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/project/entity/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/project/entity/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/project/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/project/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/project/repository/RepositoryClub.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/project/repository/RepositoryClub.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/project/repository/RepositoryLeague.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/project/repository/RepositoryLeague.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/project/repository/RepositoryMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/project/repository/RepositoryMatch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/project/repository/RepositoryPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/project/repository/RepositoryPlayer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +29,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="task1" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -84,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648472674084</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="done_Repository">
+      <created>1648662334285</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1648662334285</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
